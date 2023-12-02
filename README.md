@@ -11,8 +11,8 @@ Aquí **Daniel**, haciendo auditoría al gif de :point_up: (10/10)
 
 La sección de Referencias de este repositorio las encontrarás en [este link](https://github.com/victortg95/Hola-mundo/blob/main/docs/Referencias.md).
 
-### Original idea
-This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
+### Original
+Original idea by [Tiffany Timbers](https://github.com/ttimbers) in the repository [ttimbers/hello](https://github.com/ttimbers/hello). Thank you Tiffany!
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
